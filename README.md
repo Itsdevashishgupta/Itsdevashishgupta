@@ -7,7 +7,7 @@
 
 <p align="left"> <a href="https://twitter.com/@devashi70653204" target="blank"><img src="https://img.shields.io/twitter/follow/@devashi70653204?logo=twitter&style=for-the-badge" alt="@devashi70653204" /></a> </p>
 
-- 🔭 I’m currently working on [Student Activity Cell WEbsite](aith-sac.ml)
+- 🔭 I’m currently working on [Student Activity Cell Website](aith-sac.ml)
 
 - 🌱 I’m currently learning **Python**
 
