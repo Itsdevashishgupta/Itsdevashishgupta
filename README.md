@@ -9,7 +9,7 @@
 
 - 🔭 I’m currently working on [Student Activity Cell Website](aith-sac.ml)
 
-- 🌱 I’m currently learning **Python**
+- 🌱 I’m currently learning **Kotlin**
 
 - 📫 How to reach me **devashishgupta20102000@gmail.com**
 
