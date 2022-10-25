@@ -19,6 +19,8 @@
 <a href="https://linkedin.com/in/https://www.linkedin.com/in/devashish-gupta-b9076220a/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/devashish-gupta-b9076220a/" height="30" width="40" /></a>
 <a href="https://instagram.com/its_devashishgupta" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="its_devashishgupta" height="30" width="40" /></a>
 <a href="https://www.codechef.com/users/itsdevashish" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="itsdevashish" height="30" width="40" /></a>
+  <a href="https://www.leetcode.com/https://leetcode.com/itsdevashish/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="https://leetcode.com/itsdevashish/" height="30" width="40" /></a>
+
 <a href="https://www.hackerrank.com/@devashishgupta22" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="@devashishgupta22" height="30" width="40" /></a>
 <a href="https://discord.gg/devashish gupta#0255" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="devashish gupta#0255" height="30" width="40" /></a>
 </p>
