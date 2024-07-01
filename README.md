@@ -4,9 +4,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=itsdevashishgupta&label=Profile%20views&color=0e75b6&style=flat" alt="itsdevashishgupta" /> </p>
 
-- 🔭 I’m currently working on **Grocery Store app**
+- 🔭 I’m currently working on **Intializ**
 
-- 🌱 I’m currently learning **Kotlin**
+- 🌱 I’m currently learning **AWS**
 
 - 📫 How to reach me **devashishgupta20102000@gmail.com**
 
