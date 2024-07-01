@@ -1,4 +1,4 @@
-[![@itsdevashish's Holopin board](https://holopin.me/itsdevashish)](https://holopin.io/@itsdevashish)
+
 <h1 align="center">Hi 👋, I'm Devashish Gupta</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
 
